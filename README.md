@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The boot images for the installation will be sourced directly from the deployment workbench. These images will be accessed from the WDS server over the network. Consequently, any machine will be primed to initiate the deployment process upon booting up.
+The boot images for the installation will be sourced directly from the deployment workbench. These images will be accessed from the WDS server over the network. Any machine will be primed to initiate the deployment process upon booting up.
 <br />
 
 
